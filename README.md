@@ -1,4 +1,5 @@
 # Tips to Focus
+As a full-time student, a data science intern, and a writter with the participation in multiple projects, I find it challenging to fully commit to something. Thus, I wrote down some tips extracted from the book [Free to Focus](https://www.amazon.com/Free-Focus-Productivity-System-Achieve-ebook/dp/B07F3DM7C1). Feel free to add more productivity tips that work for you
 ## Fact
 * We have all the time we need to accomplish what matters most
 * Don't take our circumstances as excuses to do important tasks. Because circumstances will not change if we don't make efforts to change
@@ -25,15 +26,15 @@
   * Always be open to try new app
   * Learn shortcuts on your keyboard instead of using the mouse
     * Tools: Text-Expansion Software. Efficient for sending personal notes
-* Picks tasks in task filter template to automate
+* Pick some tasks in your daily life to automate
 
-## Designate
+## Review
 * Review your past achievements
 * Review your to-do list
 * Check your goals
 * Focus on 3 tasks
 
-## Activate
+## Actions
 * Focus by turning off notification
 * Reserve time for focusing
 * Eliminate as many tasks as you can
