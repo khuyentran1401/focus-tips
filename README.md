@@ -1,5 +1,5 @@
 # Tips to Focus
-As a full-time student, a data science intern, and a writter with the participation in multiple projects, I find it challenging to fully commit to something. Thus, I wrote down some tips extracted from the book [Free to Focus](https://www.amazon.com/Free-Focus-Productivity-System-Achieve-ebook/dp/B07F3DM7C1). Feel free to add more productivity tips that work for you
+As a full-time student, a data science intern, NLP research assistant, and a writter with the participation in multiple projects, I find it challenging to fully commit to something. Thus, I wrote down some tips extracted from the book [Free to Focus](https://www.amazon.com/Free-Focus-Productivity-System-Achieve-ebook/dp/B07F3DM7C1). I also shared some other tips in my [Medium article](https://towardsdatascience.com/how-to-learn-data-science-when-life-does-not-give-you-a-break-a26a6ea328fd?source=friends_link&sk=d68e1f0b9416b7e7d3a9a8ccf047b85a). Feel free to add more productivity tips that work for you
 ## Fact
 * We have all the time we need to accomplish what matters most
 * Don't take our circumstances as excuses to do important tasks. Because circumstances will not change if we don't make efforts to change
