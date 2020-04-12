@@ -1,11 +1,20 @@
 # Tips to Focus
+## Fact
+* We have all the time we need to accomplish what matters most
+* Don't take our circumstances as excuses to do important tasks. Because circumstances will not change if we don't make efforts to change
 ## Task Filter
+* Say no more often than yes to prioritize what is important
 * [Template](https://github.com/khuyentran1401/focus-tips/blob/master/F2F-Freedom-Compass-Task-Filter.pdf)
+### How to say no
+* Start with yes
+* Proceed with declining with reasons and no ambiguity
+* Wrap up with a yes: I can do something for you however
 ## Automate
 * Have a ritual in early morning
   * Check the email box and social media in the morning to keep up with things but focus during the day
 * Have a ritual at night before shutting things off
   * Check email box and social media
+* Document the process and compare different workflow
 * Create a template
   * Whenever doing something more than onces or twice, ask yourself which part of the proccess you can reuse again. Then take the time to create a perfect template for later
   * Use the template and twist it to fit with circumstances
